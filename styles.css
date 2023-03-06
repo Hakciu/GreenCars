@@ -17,21 +17,21 @@ a {
 }
 
 a:hover {
-  color: #f9d000 !important;
+  color: #31e300 !important;
 }
 
 .green {
-  color: #f9d000;
+  color: #31e300;
 }
 
 .btn1 {
-  border: 2px solid #f9d000 !important;
+  border: 2px solid #31e300 !important;
   color: #faf9fa !important;
   font-weight: bold !important;
 }
 
 .btn1:hover {
-  background-color: #f9d000 !important;
+  background-color: #31e300 !important;
   color: #000000 !important;
 }
 
@@ -97,15 +97,16 @@ footer {
 }
 
 .btn2 {
-  background-color: #f9d000 !important;
+  background-color: #31e300 !important;
   color: #000000 !important;
   font-weight: bold !important;
   margin-left: 30px;
+  box-shadow: 8px 8px 24px -14px rgba(66, 68, 90, 1);
 }
 
 .btn2:hover {
   color: #000000 !important;
-  background-color: #ebc60a !important;
+  background-color: #41e315 !important;
 }
 
 .card {
